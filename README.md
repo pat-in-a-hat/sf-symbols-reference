@@ -4,6 +4,15 @@
 
 > **Note:** These are symbol name identifiers only. The actual glyphs are part of Apple's proprietary SF Pro font and only render on Apple platforms. Use with `Image(systemName: "symbol.name")` in SwiftUI or `UIImage(systemName:)` in UIKit.
 
+## Files
+
+| File | Description |
+|------|-------------|
+| `README.md` | Full reference organized by version |
+| `symbols.txt` | Flat list of all symbol names (one per line) |
+| `symbols.json` | Structured data with name and version for each symbol |
+| `versions/` | Individual files per SF Symbols release |
+
 ## Table of Contents
 
 | Version | Count |

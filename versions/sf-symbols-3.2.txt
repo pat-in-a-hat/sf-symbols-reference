@@ -1,0 +1,15 @@
+airpod.gen3.left
+airpod.gen3.right
+airpods.gen3
+airpods.gen3.chargingcase.wireless
+airpods.gen3.chargingcase.wireless.fill
+beats.fit.pro
+beats.fit.pro.chargingcase
+beats.fit.pro.chargingcase.fill
+beats.fit.pro.left
+beats.fit.pro.right
+rectangle.leadinghalf.filled
+rectangle.trailinghalf.filled
+square.3.layers.3d.down.left.slash
+square.3.layers.3d.down.right.slash
+square.3.stack.3d.slash
