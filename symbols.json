@@ -4212,6 +4212,62 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "airpods.pro.gen1",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "airpods.pro.gen1.chargingcase.wireless",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "airpods.pro.gen1.chargingcase.wireless.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "airpods.pro.gen1.chargingcase.wireless.radiowaves.left.and.right",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "airpods.pro.gen1.chargingcase.wireless.radiowaves.left.and.right.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "airpods.pro.gen1.left",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "airpods.pro.gen1.right",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "airpods.pro.gen3",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "airpods.pro.gen3.chargingcase.wireless",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "airpods.pro.gen3.chargingcase.wireless.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "airpods.pro.gen3.chargingcase.wireless.radiowaves.left.and.right",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "airpods.pro.gen3.chargingcase.wireless.radiowaves.left.and.right.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "airpods.pro.gen3.left",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "airpods.pro.gen3.right",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "airpods.pro.left",
     "version": "SF Symbols 6.0"
   },
@@ -4284,8 +4340,40 @@
     "version": "SF Symbols 1.0"
   },
   {
+    "name": "alarm.badge.exclamationmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "alarm.badge.exclamationmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "alarm.badge.minus",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "alarm.badge.minus.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "alarm.badge.xmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "alarm.badge.xmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "alarm.fill",
     "version": "SF Symbols 1.0"
+  },
+  {
+    "name": "alarm.slash",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "alarm.slash.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "alarm.waves.left.and.right",
@@ -4498,6 +4586,14 @@
   {
     "name": "app.shadow",
     "version": "SF Symbols 7.0"
+  },
+  {
+    "name": "app.slash",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "app.slash.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "app.specular",
@@ -4800,6 +4896,10 @@
     "version": "SF Symbols 7.0"
   },
   {
+    "name": "apps.ipad.badge.exclamationmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "apps.ipad.badge.plus",
     "version": "SF Symbols 7.0"
   },
@@ -4826,6 +4926,10 @@
   {
     "name": "apps.iphone.badge.checkmark.rtl",
     "version": "SF Symbols 7.0"
+  },
+  {
+    "name": "apps.iphone.badge.exclamationmark",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "apps.iphone.badge.plus",
@@ -6892,8 +6996,16 @@
     "version": "SF Symbols 2.0"
   },
   {
+    "name": "arrowtriangle.backward.inset.filled.leadingthird.rectangle",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "arrowtriangle.backward.inset.filled.trailingthird.rectangle",
     "version": "SF Symbols 7.1"
+  },
+  {
+    "name": "arrowtriangle.backward.leadingside.rectangle",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "arrowtriangle.backward.square",
@@ -6964,6 +7076,10 @@
     "version": "SF Symbols 2.0"
   },
   {
+    "name": "arrowtriangle.forward.trailingside.rectangle",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "arrowtriangle.left",
     "version": "SF Symbols 1.0"
   },
@@ -6990,6 +7106,14 @@
   {
     "name": "arrowtriangle.left.fill.and.line.vertical.and.arrowtriangle.right.fill",
     "version": "SF Symbols 2.0"
+  },
+  {
+    "name": "arrowtriangle.left.inset.filled.leftthird.rectangle",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "arrowtriangle.left.leftside.rectangle",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "arrowtriangle.left.square",
@@ -7026,6 +7150,14 @@
   {
     "name": "arrowtriangle.right.fill.and.line.vertical.and.arrowtriangle.left.fill",
     "version": "SF Symbols 2.0"
+  },
+  {
+    "name": "arrowtriangle.right.inset.filled.rightthird.rectangle",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "arrowtriangle.right.rightside.rectangle",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "arrowtriangle.right.square",
@@ -7164,6 +7296,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "australiandollarsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "australiandollarsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "australiandollarsign.circle",
     "version": "SF Symbols 5.0"
   },
@@ -7214,6 +7354,14 @@
   {
     "name": "australsign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "australsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "australsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "australsign.circle",
@@ -7400,6 +7548,22 @@
     "version": "SF Symbols 1.0"
   },
   {
+    "name": "backward.bubble",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "backward.bubble.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "backward.bubble.fill.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "backward.bubble.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "backward.circle",
     "version": "SF Symbols 3.0"
   },
@@ -7518,6 +7682,14 @@
   {
     "name": "bahtsign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "bahtsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "bahtsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "bahtsign.circle",
@@ -8224,6 +8396,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "bitcoinsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "bitcoinsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "bitcoinsign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -8656,6 +8836,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "brazilianrealsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "brazilianrealsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "brazilianrealsign.circle",
     "version": "SF Symbols 2.1"
   },
@@ -8756,6 +8944,14 @@
     "version": "SF Symbols 3.0"
   },
   {
+    "name": "bubble.left.and.heart.bubble.right",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "bubble.left.and.heart.bubble.right.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "bubble.left.and.text.bubble.right",
     "version": "SF Symbols 5.0"
   },
@@ -8842,6 +9038,18 @@
   {
     "name": "building.2.fill",
     "version": "SF Symbols 2.0"
+  },
+  {
+    "name": "building.classical.columns",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "building.classical.columns.circle",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "building.classical.columns.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "building.columns",
@@ -9110,6 +9318,10 @@
   {
     "name": "calendar.circle.fill",
     "version": "SF Symbols 1.0"
+  },
+  {
+    "name": "calendar.day",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "calendar.day.timeline.leading",
@@ -9414,6 +9626,14 @@
   {
     "name": "car.badge.gearshape.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "car.card",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "car.card.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "car.circle",
@@ -10488,6 +10708,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "cedisign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "cedisign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "cedisign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -10532,6 +10760,10 @@
     "version": "SF Symbols 7.0"
   },
   {
+    "name": "cellularbars.short.cellularbars",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "centsign",
     "version": "SF Symbols 4.0"
   },
@@ -10550,6 +10782,14 @@
   {
     "name": "centsign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "centsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "centsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "centsign.circle",
@@ -12392,6 +12632,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "chineseyuanrenminbisign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "chineseyuanrenminbisign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "chineseyuanrenminbisign.circle",
     "version": "SF Symbols 5.0"
   },
@@ -13248,6 +13496,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "coloncurrencysign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "coloncurrencysign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "coloncurrencysign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -13656,6 +13912,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "cruzeirosign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "cruzeirosign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "cruzeirosign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -13866,6 +14130,14 @@
   {
     "name": "danishkronesign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "danishkronesign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "danishkronesign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "danishkronesign.circle",
@@ -14700,6 +14972,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "dollarsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "dollarsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "dollarsign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -14750,6 +15030,14 @@
   {
     "name": "dongsign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "dongsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "dongsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "dongsign.circle",
@@ -15628,6 +15916,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "eurosign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "eurosign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "eurosign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -15678,6 +15974,14 @@
   {
     "name": "eurozonesign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "eurozonesign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "eurozonesign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "eurozonesign.circle",
@@ -15966,6 +16270,10 @@
   {
     "name": "exclamationmark.triangle.text.page.rtl",
     "version": "SF Symbols 6.2"
+  },
+  {
+    "name": "exclamationmark.viewfinder",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "exclamationmark.warninglight",
@@ -16396,12 +16704,20 @@
     "version": "SF Symbols 4.0"
   },
   {
+    "name": "figure.2.ascending",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "figure.2.circle",
     "version": "SF Symbols 5.0"
   },
   {
     "name": "figure.2.circle.fill",
     "version": "SF Symbols 5.0"
+  },
+  {
+    "name": "figure.2.descending",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "figure.2.left.holdinghands",
@@ -17740,6 +18056,10 @@
     "version": "SF Symbols 2.0"
   },
   {
+    "name": "figure.stand.and.figure.teen",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "figure.stand.dress",
     "version": "SF Symbols 6.0"
   },
@@ -17822,6 +18142,26 @@
   {
     "name": "figure.taichi.circle.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "figure.teen",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "figure.teen.and.lock",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "figure.teen.and.lock.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "figure.teen.and.lock.open",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "figure.teen.and.lock.open.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "figure.tennis",
@@ -18292,6 +18632,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "florinsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "florinsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "florinsign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -18534,6 +18882,14 @@
   {
     "name": "francsign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "francsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "francsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "francsign.circle",
@@ -18912,6 +19268,10 @@
     "version": "SF Symbols 3.0"
   },
   {
+    "name": "globe.and.person",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "globe.asia.australia",
     "version": "SF Symbols 3.0"
   },
@@ -19276,6 +19636,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "guaranisign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "guaranisign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "guaranisign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -19386,6 +19754,14 @@
   {
     "name": "hammer.fill",
     "version": "SF Symbols 1.0"
+  },
+  {
+    "name": "hammer.slash",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hammer.slash.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "hand.app",
@@ -20020,6 +20396,30 @@
     "version": "SF Symbols 2.0"
   },
   {
+    "name": "hifispeaker.2.badge.checkmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.2.badge.checkmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.2.badge.checkmark.fill.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.2.badge.checkmark.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.2.badge.exclamationmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.2.badge.exclamationmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "hifispeaker.2.badge.minus",
     "version": "SF Symbols 6.0"
   },
@@ -20060,6 +20460,30 @@
     "version": "SF Symbols 2.0"
   },
   {
+    "name": "hifispeaker.and.homepod.badge.checkmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.and.homepod.badge.checkmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.and.homepod.badge.checkmark.fill.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.and.homepod.badge.checkmark.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.and.homepod.badge.exclamationmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.and.homepod.badge.exclamationmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "hifispeaker.and.homepod.badge.minus",
     "version": "SF Symbols 6.0"
   },
@@ -20082,6 +20506,30 @@
   {
     "name": "hifispeaker.and.homepod.mini",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "hifispeaker.and.homepod.mini.badge.checkmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.and.homepod.mini.badge.checkmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.and.homepod.mini.badge.checkmark.fill.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.and.homepod.mini.badge.checkmark.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.and.homepod.mini.badge.exclamationmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.and.homepod.mini.badge.exclamationmark.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "hifispeaker.and.homepod.mini.badge.minus",
@@ -20118,6 +20566,30 @@
   {
     "name": "hifispeaker.arrow.forward.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "hifispeaker.badge.checkmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.badge.checkmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.badge.checkmark.fill.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.badge.checkmark.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.badge.exclamationmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hifispeaker.badge.exclamationmark.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "hifispeaker.badge.minus",
@@ -20180,6 +20652,30 @@
     "version": "SF Symbols 2.0"
   },
   {
+    "name": "homepod.2.badge.checkmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.2.badge.checkmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.2.badge.checkmark.fill.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.2.badge.checkmark.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.2.badge.exclamationmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.2.badge.exclamationmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "homepod.2.badge.minus",
     "version": "SF Symbols 6.0"
   },
@@ -20218,6 +20714,30 @@
   {
     "name": "homepod.and.homepod.mini",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "homepod.and.homepod.mini.badge.checkmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.and.homepod.mini.badge.checkmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.and.homepod.mini.badge.checkmark.fill.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.and.homepod.mini.badge.checkmark.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.and.homepod.mini.badge.exclamationmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.and.homepod.mini.badge.exclamationmark.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "homepod.and.homepod.mini.badge.minus",
@@ -20272,6 +20792,14 @@
     "version": "SF Symbols 7.0"
   },
   {
+    "name": "homepod.badge.exclamationmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.badge.exclamationmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "homepod.badge.minus",
     "version": "SF Symbols 6.0"
   },
@@ -20298,6 +20826,30 @@
   {
     "name": "homepod.mini.2",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "homepod.mini.2.badge.checkmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.mini.2.badge.checkmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.mini.2.badge.checkmark.fill.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.mini.2.badge.checkmark.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.mini.2.badge.exclamationmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.mini.2.badge.exclamationmark.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "homepod.mini.2.badge.minus",
@@ -20358,6 +20910,14 @@
   {
     "name": "homepod.mini.badge.checkmark.rtl",
     "version": "SF Symbols 7.0"
+  },
+  {
+    "name": "homepod.mini.badge.exclamationmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "homepod.mini.badge.exclamationmark.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "homepod.mini.badge.minus",
@@ -20564,6 +21124,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "hryvniasign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "hryvniasign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "hryvniasign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -20756,6 +21324,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "indianrupeesign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "indianrupeesign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "indianrupeesign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -20802,6 +21378,14 @@
   {
     "name": "info",
     "version": "SF Symbols 1.0"
+  },
+  {
+    "name": "info.app",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "info.app.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "info.bubble",
@@ -20940,6 +21524,10 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "inset.filled.bubble",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "inset.filled.capsule",
     "version": "SF Symbols 6.0"
   },
@@ -20980,6 +21568,10 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "inset.filled.leadinghalf.arrowtriangle.backward.rectangle",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "inset.filled.leadinghalf.rectangle",
     "version": "SF Symbols 6.0"
   },
@@ -21000,6 +21592,10 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "inset.filled.leadingthird.rectangle.badge.xmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "inset.filled.leadingthird.rectangle.portrait",
     "version": "SF Symbols 6.0"
   },
@@ -21010,6 +21606,10 @@
   {
     "name": "inset.filled.lefthalf.arrow.left.rectangle",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "inset.filled.lefthalf.arrowtriangle.left.rectangle",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "inset.filled.lefthalf.rectangle",
@@ -21034,6 +21634,10 @@
   {
     "name": "inset.filled.leftthird.rectangle",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "inset.filled.leftthird.rectangle.badge.xmark",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "inset.filled.leftthird.rectangle.portrait",
@@ -21064,6 +21668,10 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "inset.filled.rectangle.and.person",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "inset.filled.rectangle.and.person.filled",
     "version": "SF Symbols 6.0"
   },
@@ -21082,6 +21690,14 @@
   {
     "name": "inset.filled.rectangle.and.person.filled.slash.rtl",
     "version": "SF Symbols 7.1"
+  },
+  {
+    "name": "inset.filled.rectangle.and.person.slash",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "inset.filled.rectangle.and.person.slash.rtl",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "inset.filled.rectangle.and.pointer.arrow",
@@ -21104,6 +21720,10 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "inset.filled.righthalf.arrowtriangle.right.rectangle",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "inset.filled.righthalf.lefthalf.rectangle",
     "version": "SF Symbols 6.0"
   },
@@ -21120,6 +21740,10 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "inset.filled.rightthird.rectangle.badge.xmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "inset.filled.rightthird.rectangle.portrait",
     "version": "SF Symbols 6.0"
   },
@@ -21134,6 +21758,10 @@
   {
     "name": "inset.filled.square.dashed",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "inset.filled.square.dashed.micro",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "inset.filled.tophalf.bottomhalf.rectangle",
@@ -21220,6 +21848,10 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "inset.filled.trailinghalf.arrowtriangle.forward.rectangle",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "inset.filled.trailinghalf.leadinghalf.rectangle",
     "version": "SF Symbols 6.0"
   },
@@ -21236,6 +21868,10 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "inset.filled.trailingthird.rectangle.badge.xmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "inset.filled.trailingthird.rectangle.portrait",
     "version": "SF Symbols 6.0"
   },
@@ -21250,6 +21886,58 @@
   {
     "name": "inset.filled.tv",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "inset.left.half.filled.square.dashed.micro",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "inset.left.half.square.dashed.micro",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "inset.square.dashed.micro",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "interface.window",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "interface.window.and.pointer.arrow",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "interface.window.and.pointer.arrow.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "interface.window.badge.plus",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "interface.window.dashed",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "interface.window.on.rectangle",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "interface.window.on.rectangle.dashed",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "interface.window.on.rectangle.dashed.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "interface.window.on.rectangle.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "interface.window.stack",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "internaldrive",
@@ -22184,6 +22872,10 @@
     "version": "SF Symbols 3.0"
   },
   {
+    "name": "keyboard.interface.window",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "keyboard.macwindow",
     "version": "SF Symbols 2.0"
   },
@@ -22222,6 +22914,14 @@
   {
     "name": "kipsign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "kipsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "kipsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "kipsign.circle",
@@ -22528,6 +23228,10 @@
     "version": "SF Symbols 7.0"
   },
   {
+    "name": "laptopcomputer.display.clean",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "laptopcomputer.slash",
     "version": "SF Symbols 4.1"
   },
@@ -22558,6 +23262,14 @@
   {
     "name": "larisign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "larisign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "larisign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "larisign.circle",
@@ -23134,6 +23846,14 @@
   {
     "name": "lirasign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "lirasign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "lirasign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "lirasign.circle",
@@ -23868,6 +24588,14 @@
     "version": "SF Symbols 2.0"
   },
   {
+    "name": "macpro.gen3.badge.checkmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "macpro.gen3.badge.checkmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "macpro.gen3.badge.ckeckmark",
     "version": "SF Symbols 7.0"
   },
@@ -24012,6 +24740,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "malaysianringgitsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "malaysianringgitsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "malaysianringgitsign.circle",
     "version": "SF Symbols 6.0"
   },
@@ -24062,6 +24798,14 @@
   {
     "name": "manatsign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "manatsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "manatsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "manatsign.circle",
@@ -24464,6 +25208,18 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "microphone.dynamic.on.stand",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "microphone.dynamic.on.stand.circle",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "microphone.dynamic.on.stand.circle.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "microphone.fill",
     "version": "SF Symbols 6.0"
   },
@@ -24518,6 +25274,14 @@
   {
     "name": "millsign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "millsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "millsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "millsign.circle",
@@ -25120,6 +25884,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "nairasign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "nairasign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "nairasign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -25198,6 +25970,14 @@
   {
     "name": "norwegiankronesign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "norwegiankronesign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "norwegiankronesign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "norwegiankronesign.circle",
@@ -25300,6 +26080,26 @@
     "version": "SF Symbols 1.0"
   },
   {
+    "name": "number.sign",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "number.sign.circle",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "number.sign.circle.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "number.sign.square",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "number.sign.square.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "number.square",
     "version": "SF Symbols 1.0"
   },
@@ -25394,6 +26194,10 @@
   {
     "name": "numbersign",
     "version": "SF Symbols 4.0"
+  },
+  {
+    "name": "numero.sign",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "o.circle",
@@ -25642,6 +26446,14 @@
   {
     "name": "paintbrush.pointed.fill",
     "version": "SF Symbols 2.0"
+  },
+  {
+    "name": "paintbrush.slash",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "paintbrush.slash.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "paintpalette",
@@ -26120,6 +26932,22 @@
     "version": "SF Symbols 5.0"
   },
   {
+    "name": "person.badge.checkmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "person.badge.checkmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "person.badge.checkmark.seal",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "person.badge.checkmark.seal.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "person.badge.clock",
     "version": "SF Symbols 3.0"
   },
@@ -26128,12 +26956,36 @@
     "version": "SF Symbols 3.0"
   },
   {
+    "name": "person.badge.creditcard",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "person.badge.creditcard.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "person.badge.gearshape",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "person.badge.gearshape.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "person.badge.key",
     "version": "SF Symbols 3.3"
   },
   {
     "name": "person.badge.key.fill",
     "version": "SF Symbols 3.3"
+  },
+  {
+    "name": "person.badge.location",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "person.badge.location.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "person.badge.minus",
@@ -26174,6 +27026,14 @@
   {
     "name": "person.bubble.fill",
     "version": "SF Symbols 5.0"
+  },
+  {
+    "name": "person.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "person.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "person.bust",
@@ -26262,6 +27122,14 @@
   {
     "name": "person.crop.circle.badge.fill",
     "version": "SF Symbols 3.0"
+  },
+  {
+    "name": "person.crop.circle.badge.magnifyingglass",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "person.crop.circle.badge.magnifyingglass.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "person.crop.circle.badge.minus",
@@ -26504,6 +27372,14 @@
     "version": "SF Symbols 4.0"
   },
   {
+    "name": "person.number.sign.rectangle",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "person.number.sign.rectangle.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "person.slash",
     "version": "SF Symbols 5.0"
   },
@@ -26530,6 +27406,14 @@
   {
     "name": "person.text.rectangle",
     "version": "SF Symbols 3.0"
+  },
+  {
+    "name": "person.text.rectangle.badge.clock",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "person.text.rectangle.badge.clock.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "person.text.rectangle.fill",
@@ -26588,6 +27472,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "peruviansolessign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "peruviansolessign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "peruviansolessign.circle",
     "version": "SF Symbols 6.0"
   },
@@ -26640,6 +27532,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "pesetasign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "pesetasign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "pesetasign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -26690,6 +27590,14 @@
   {
     "name": "pesosign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "pesosign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "pesosign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "pesosign.circle",
@@ -26968,6 +27876,14 @@
     "version": "SF Symbols 5.0"
   },
   {
+    "name": "photo.badge.questionmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "photo.badge.questionmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "photo.badge.shield.exclamationmark",
     "version": "SF Symbols 6.3"
   },
@@ -27002,6 +27918,14 @@
   {
     "name": "photo.on.rectangle.angled.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "photo.slash",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "photo.slash.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "photo.stack",
@@ -27148,6 +28072,22 @@
     "version": "SF Symbols 4.0"
   },
   {
+    "name": "pizza.slice",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "pizza.slice.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "pl.button.horizontal",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "pl.button.horizontal.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "placeholdertext.fill",
     "version": "SF Symbols 2.0"
   },
@@ -27202,6 +28142,22 @@
   {
     "name": "play",
     "version": "SF Symbols 1.0"
+  },
+  {
+    "name": "play.bubble",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "play.bubble.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "play.bubble.fill.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "play.bubble.rtl",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "play.circle",
@@ -27688,6 +28644,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "polishzlotysign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "polishzlotysign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "polishzlotysign.circle",
     "version": "SF Symbols 5.0"
   },
@@ -28038,6 +29002,14 @@
   {
     "name": "powersleep",
     "version": "SF Symbols 2.0"
+  },
+  {
+    "name": "pr.button.horizontal",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "pr.button.horizontal.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "printer",
@@ -28626,6 +29598,10 @@
   {
     "name": "recordingtape",
     "version": "SF Symbols 1.0"
+  },
+  {
+    "name": "recordingtape.badge",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "recordingtape.circle",
@@ -29752,6 +30728,10 @@
     "version": "SF Symbols 7.0"
   },
   {
+    "name": "ring.light",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "rm.button.horizontal",
     "version": "SF Symbols 5.0"
   },
@@ -29908,6 +30888,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "rublesign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "rublesign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "rublesign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -29982,6 +30970,14 @@
   {
     "name": "rupeesign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "rupeesign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "rupeesign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "rupeesign.circle",
@@ -30098,6 +31094,10 @@
   {
     "name": "scope",
     "version": "SF Symbols 1.0"
+  },
+  {
+    "name": "scope.continuous",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "screwdriver",
@@ -30250,6 +31250,14 @@
   {
     "name": "shekelsign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "shekelsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "shekelsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "shekelsign.circle",
@@ -30628,6 +31636,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "singaporedollarsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "singaporedollarsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "singaporedollarsign.circle",
     "version": "SF Symbols 6.0"
   },
@@ -30670,6 +31686,14 @@
   {
     "name": "siri",
     "version": "SF Symbols 7.0"
+  },
+  {
+    "name": "siri.gen1",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "siri.gen2",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "skateboard",
@@ -31532,6 +32556,10 @@
     "version": "SF Symbols 3.0"
   },
   {
+    "name": "square.dashed.micro",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "square.dotted",
     "version": "SF Symbols 4.0"
   },
@@ -31976,6 +33004,10 @@
     "version": "SF Symbols 2.0"
   },
   {
+    "name": "squareshape.on.pattern.diagonalline",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "squareshape.split.2x2",
     "version": "SF Symbols 2.0"
   },
@@ -32022,6 +33054,10 @@
   {
     "name": "star.bubble.fill",
     "version": "SF Symbols 3.0"
+  },
+  {
+    "name": "star.calendar",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "star.circle",
@@ -32198,6 +33234,14 @@
   {
     "name": "sterlingsign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "sterlingsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "sterlingsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "sterlingsign.circle",
@@ -32808,6 +33852,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "swedishkronasign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "swedishkronasign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "swedishkronasign.circle",
     "version": "SF Symbols 5.0"
   },
@@ -33076,6 +34128,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "tengesign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "tengesign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "tengesign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -33192,6 +34252,10 @@
     "version": "SF Symbols 1.0"
   },
   {
+    "name": "text.and.command.interface.window",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "text.and.command.macwindow",
     "version": "SF Symbols 2.0"
   },
@@ -33274,6 +34338,22 @@
   {
     "name": "text.bubble.badge.clock.rtl",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "text.bubble.badge.sparkles",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "text.bubble.badge.sparkles.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "text.bubble.badge.sparkles.fill.rtl",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "text.bubble.badge.sparkles.rtl",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "text.bubble.fill",
@@ -33392,6 +34472,10 @@
     "version": "SF Symbols 2.0"
   },
   {
+    "name": "text.menu",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "text.pad.header",
     "version": "SF Symbols 7.0"
   },
@@ -33410,6 +34494,14 @@
   {
     "name": "text.page",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "text.page.and.line.vertical.and.text.page",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "text.page.and.line.vertical.and.text.page.rtl",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "text.page.badge.magnifyingglass",
@@ -35192,6 +36284,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "tugriksign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "tugriksign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "tugriksign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -35246,6 +36346,14 @@
   {
     "name": "turkishlirasign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "turkishlirasign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "turkishlirasign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "turkishlirasign.circle",
@@ -35424,6 +36532,22 @@
     "version": "SF Symbols 1.0"
   },
   {
+    "name": "vent.airflow.diffused",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "vent.airflow.focused",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "vent.airflow.manual",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "vent.airflow.oscillating",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "vent.heat.waves.upward",
     "version": "SF Symbols 7.0"
   },
@@ -35458,6 +36582,22 @@
   {
     "name": "video.badge.plus.fill",
     "version": "SF Symbols 1.0"
+  },
+  {
+    "name": "video.badge.questionmark",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "video.badge.questionmark.ar",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "video.badge.questionmark.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "video.badge.questionmark.fill.ar",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "video.badge.waveform",
@@ -36004,6 +37144,10 @@
     "version": "SF Symbols 3.0"
   },
   {
+    "name": "waveform.and.person",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "waveform.and.person.filled",
     "version": "SF Symbols 5.0"
   },
@@ -36392,6 +37536,14 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "wonsign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "wonsign.building.classical.fill",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "wonsign.circle",
     "version": "SF Symbols 1.0"
   },
@@ -36540,6 +37692,10 @@
     "version": "SF Symbols 1.0"
   },
   {
+    "name": "xmark.interface.window",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "xmark.octagon",
     "version": "SF Symbols 1.0"
   },
@@ -36596,6 +37752,10 @@
     "version": "SF Symbols 6.0"
   },
   {
+    "name": "xmark.viewfinder",
+    "version": "SF Symbols 8.0"
+  },
+  {
     "name": "xserve",
     "version": "SF Symbols 2.0"
   },
@@ -36638,6 +37798,14 @@
   {
     "name": "yensign.bank.building.fill",
     "version": "SF Symbols 6.0"
+  },
+  {
+    "name": "yensign.building.classical",
+    "version": "SF Symbols 8.0"
+  },
+  {
+    "name": "yensign.building.classical.fill",
+    "version": "SF Symbols 8.0"
   },
   {
     "name": "yensign.circle",
